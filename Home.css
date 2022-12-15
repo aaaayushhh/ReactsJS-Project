@@ -1,0 +1,149 @@
+.icon {
+    transform: translate(3.1em);
+}
+
+.infoicon {
+    width: 5em;
+    height: 3em;
+}
+
+.sidecard {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.bcolor {
+    background-color: #E2F8FF;
+}
+
+.name {
+    font-weight: 500;
+}
+
+.side {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.st {
+    font-weight: bold;
+    font-size: medium;
+}
+
+.link {
+    color: #FB9F15;
+}
+
+.link:hover {
+    color: #FB9F15;
+}
+
+.activities {
+    border-radius: 50%;
+    background-color: #FB9F15;
+    color: white;
+    width: 25px;
+    height: 25px;
+    /* transform: translate(9em, 0.3em); */
+}
+
+.upcomingappointment {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.up {
+    background-color: white;
+    font-size: 13px;
+    border-color: white;
+}
+
+.booknow {
+    /* transform: translateX(7em); */
+    background-color: #FB9F15;
+    border-color: #FB9F15;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+    /* transform: translateX(5em); */
+}
+
+.booknow:hover {
+    background-color: #FB9F15;
+    color: white;
+    border-color: #FB9F15;
+}
+
+.bookappointment {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.cardborder {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.text {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.sizing {
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.smbox {
+    width: 4em;
+    height: 2em;
+    font-size: xx-small;
+    font-weight: bold;
+    text-align: center;
+    transform: translate(9em, -4em);
+    background: #E2F8FF;
+    border-radius: 20px;
+}
+
+.smbox2 {
+    width: 4em;
+    height: 2em;
+    font-size: xx-small;
+    font-weight: bold;
+    text-align: center;
+    transform: translate(9em, -4em);
+    background: #FB9F15;
+    border-radius: 20px;
+}
+
+.doc {
+    color: #000000;
+    text-decoration: none;
+}
+
+.doc:hover {
+    color: #FB9F15;
+}
+
+@media (max-width: 991px) {
+    .prof {
+        display: none;
+    }
+}
+
+.image {
+    width: 3em;
+    height: 3em;
+}
+
+@media (min-width:991px) {
+    .image {
+        display: none;
+    }
+}

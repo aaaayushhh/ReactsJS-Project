@@ -1,0 +1,109 @@
+.writeup {
+    font-weight: 600;
+}
+
+.send {
+    background-color: #FB9F15;
+    border: none;
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+.send:hover {
+    background-color: #FB9F15;
+    border: none;
+}
+
+.contact {
+    background-color: #DBF3FB;
+    border-radius: 8px;
+}
+
+h4.contactus {
+    text-align: center;
+}
+
+.type {
+    border-radius: 8px;
+}
+
+.bold {
+    font-weight: 500;
+}
+
+.submit {
+    background-color: #FB9F15;
+    border: #FB9F15;
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+.submit:hover {
+    background-color: #FB9F15;
+    border: #FB9F15;
+}
+
+/* @media (max-width: 992px) {
+    .read {
+        order: 2;
+    }
+
+    .contact {
+        order: 1;
+    }
+} */
+
+.bgco {
+    background-color: #FB9F15;
+    border-color: none;
+}
+
+.bgco:hover {
+    background-color: #FB9F15;
+    border-top: none;
+}
+
+.refer {
+    color: black;
+}
+
+.share {
+    font-weight: normal;
+}
+
+.contactback {
+    background-color: #DBF3FB;
+}
+
+.textcolor {
+    color: #FB9F15;
+}
+
+.whatsappcolor {
+    color: rgb(4, 168, 4);
+}
+
+.instacolor {
+    color: rgb(191, 77, 155);
+}
+
+.facebookcolor {
+    color: blue;
+}
+
+.linkedincolor {
+    color: rgb(8, 129, 229);
+}
+
+.twittercolor {
+    color: skyblue;
+}
+
+.gmailcolor {
+    color: red;
+}
+
+.money {
+    height: 30px;
+    width: 30px;
+}

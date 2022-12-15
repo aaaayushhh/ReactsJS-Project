@@ -1,0 +1,61 @@
+.picture {
+    width: 4em;
+}
+
+.name {
+    font-size: medium;
+    font-weight: bold;
+}
+
+.no {
+    font-weight: bold;
+}
+
+.bgc {
+    background-color: white;
+    border-radius: 5px;
+}
+
+.bgco {
+    background-color: #FB9F15;
+    border-color: none;
+}
+
+.bgco:hover {
+    background-color: #FB9F15;
+    border-top: none;
+}
+
+.bco {
+    background-color: #DBF3FB;
+}
+
+.faq {
+    border-radius: 5px;
+    font-weight: 400;
+    border-color: #DBF3FB;
+}
+
+.accordion-header {
+    background-color: #DBF3FB;
+    padding: 1px;
+    border-radius: 9px;
+}
+
+.accordion-item {
+    border: none;
+}
+
+.accordion-body {
+    border-radius: 9px;
+}
+
+.accordion-button {
+    background-color: #DBF3FB;
+    font-weight: 600;
+}
+
+.accordion-button:not(.collapsed) {
+    color: black;
+    background-color: #DBF3FB;
+}

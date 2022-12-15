@@ -1,0 +1,53 @@
+h2 {
+    text-align: center;
+    color: #FB9F15;
+}
+
+.bloodgroup {
+    background-color: white;
+    color: black;
+    border-color: lightgrey;
+}
+
+.bloodgroup:hover {
+    background-color: white;
+    color: black;
+    border-color: lightgrey;
+}
+
+.pic {
+    background-image: url(./registerpagepic.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+    min-height: 50% !important;
+    /* transform: translateY(5em); */
+}
+
+.bgcolor {
+    background-color: #E2F8FF;
+}
+
+.shadow {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.register {
+    background-color: #FB9F15;
+    font-size: larger;
+    border-color: #FB9F15;
+}
+
+.register:hover {
+    background-color: #FB9F15;
+    color: white;
+    border-color: #FB9F15;
+}
+
+.textbold {
+    font-weight: 500;
+}
+
+span {
+    color: red;
+}

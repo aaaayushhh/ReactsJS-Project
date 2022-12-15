@@ -1,0 +1,74 @@
+.logincard {
+    transform: translateY(2em);
+}
+
+.loginicon {
+
+    position: absolute;
+    z-index: 1;
+    transform: translateX(-2.5em);
+    width: 75px;
+}
+
+.loginim {
+    height: 100%;
+}
+
+.healthicon {
+    transform: translateY(5em);
+}
+
+.loginbutton {
+    background-color: #FB9F15;
+    border-color: #FB9F15;
+    font-weight: 500;
+}
+
+.loginbutton:hover {
+    background-color: #FB9F15;
+    border-color: #FB9F15;
+}
+
+.registerbutton {
+    background-color: #DBF3FB;
+    border-color: #DBF3FB;
+    color: black;
+    font-weight: 500;
+}
+
+.registerbutton:hover {
+    background-color: #DBF3FB;
+    border-color: #DBF3FB;
+    color: black;
+}
+
+.bgcolor {
+    background-color: #DBF3FB;
+}
+
+@media(max-width: 767px) {
+    .loginim {
+        display: none;
+    }
+
+}
+
+.textareacolor {
+    background-color: #DBF3FB;
+}
+
+.forgotcolor {
+    color: blue;
+}
+
+.forgotcolor:hover {
+    color: blue;
+}
+
+.username {
+    font-weight: 500;
+}
+
+.password {
+    font-weight: 500;
+}

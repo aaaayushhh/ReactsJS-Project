@@ -1,0 +1,51 @@
+.bcolor {
+    background-color: #E2F8FF;
+}
+
+.name {
+    font-weight: 500;
+}
+
+.side {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.st {
+    font-weight: bold;
+    font-size: medium;
+}
+
+.link {
+    color: #FB9F15;
+}
+
+.link:hover {
+    color: #FB9F15;
+}
+
+.activities {
+    border-radius: 50%;
+    background-color: #FB9F15;
+    color: white;
+    width: 25px;
+    height: 25px;
+    /* transform: translate(9em, 0.3em); */
+}
+
+.cardborder {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.text {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.sizing {
+    font-size: 19px;
+    font-weight: bold;
+}
